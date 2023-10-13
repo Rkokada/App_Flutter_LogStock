@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "966491289962",
+    "firebase_url": "https://logstock-281a7-default-rtdb.firebaseio.com",
+    "project_id": "logstock-281a7",
+    "storage_bucket": "logstock-281a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966491289962:android:e685b3c8ab9d8fcaad0d13",
+        "android_client_info": {
+          "package_name": "br.com.rrocha22.logstock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966491289962-1fpp7rjitqtcr15ug1upl4jagohi0h5e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.rrocha22.logstock",
+            "certificate_hash": "d70d0df811b4d927d9d8709d79b30c9716657ee5"
+          }
+        },
+        {
+          "client_id": "966491289962-nc9uekikt1g2rahu5u5soi5abqmuee1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKbn2nWti3F5DZ3ptAppt71hL81c47phU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966491289962-nc9uekikt1g2rahu5u5soi5abqmuee1r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "966491289962-jff3nphva7cvs26dieqd44hq43u94qqf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.rrocha22.logstock"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
